@@ -47,19 +47,7 @@ Pipeline completo de Machine Learning com treinamento, API REST e interface conv
 
 ## Projeto Complementar
 
-### PROJ_004 – Segmentação de Clientes com RFM, Clustering e Dashboard  
-Segmentação de clientes com base em métricas RFM e técnicas de clusterização. Inclui visualizações e recomendações estratégicas em dashboard interativo.
-
-**Técnicas e Ferramentas:**
-- KMeans, DBSCAN, Agglomerative Clustering
-- PCA e UMAP para visualização 2D e 3D
-- Dashboard em Streamlit com filtros dinâmicos
-
-🔗 [Acesse o projeto](https://github.com/grazimartins/seg_clientes)
-
----
-
-### PROJ_005 – Previsão de Indicadores para Locadora de Veículos  
+### PROJ_004 – Previsão de Indicadores para Locadora de Veículos  
 Previsão de **diárias locadas** e **diária média** por loja e por mês (jul/2025–jun/2026) a partir de dados históricos. Pipeline completo em notebooks com análise exploratória, preparação, modelagem e avaliação.
 Modelagem de previsão temporal para apoio à tomada de decisão.
 
